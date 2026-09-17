@@ -112,7 +112,6 @@ My approach is simple:
 
 ---
 
-
 ## 🧪 Labs
 
 Hands-on exercises focused on building practical technical skills.
@@ -126,28 +125,6 @@ Planned areas:
 - 🔄 CI/CD labs
 - 🏗️ Terraform labs
 - ☸️ Kubernetes labs
-
-Assim, quando alguém visitar seu Portfolio Hub, já consegue clicar em Linux labs e ir diretamente para o repositório.
-
-Faça assim
-Entre no repositório cloud-devops-portfolio.
-Clique no ✏️ do README.
-Procure ## 🧪 Labs.
-Substitua somente aquela lista pelo trecho acima.
-Clique em Preview para conferir.
-Depois Commit changes.
-
-Mensagem do commit:
-
-Add Linux lab to portfolio
-
-E pronto. ✅
-
-A partir de agora temos a primeira ligação real:
-
-Profile → Portfolio → Linux Lab 🐧
-
-Amanhã, quando começarmos o Ubuntu, o próximo passo será fazer o learning-linux deixar de ser apenas documentação e começar a receber labs reais. 🚀
 
 ---
 
